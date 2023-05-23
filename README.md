@@ -6,6 +6,7 @@ Com a combinação das tecnologias HTML, CSS, JavaScript e React, pude criar uma
 O Primeflix é o seu assistente pessoal de cinema, trazendo as informações mais relevantes sobre cada filme, como sinopse, classificação, elenco e muito mais. Além disso, ele oferece uma experiência agradável de navegação, permitindo que você adicione filmes à sua lista de favoritos e acompanhe sua própria coleção.
 
 Como inicializar:
+
 1- Certifique-se de que você tem o Node.js instalado em seu sistema. Você pode verificar digitando node -v no terminal. Se não estiver instalado, você pode baixá-lo em https://nodejs.org.
 
 2- Clone o projeto: https://github.com/GabrielCortezS/projetoprimeflix.git
@@ -17,7 +18,3 @@ Como inicializar:
 5- Incialize o projeto com - npm start
 
 
-<div>
-  <button class="copy-button" data-text="TESTE">Copiar</button>
-  <span class="copy-feedback"></span>
-</div>
