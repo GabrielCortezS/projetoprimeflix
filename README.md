@@ -15,3 +15,9 @@ Como inicializar:
 4- npm i
 
 5- Incialize o projeto com - npm start
+
+
+<div>
+  <button class="copy-button" data-text="TESTE">Copiar</button>
+  <span class="copy-feedback"></span>
+</div>
