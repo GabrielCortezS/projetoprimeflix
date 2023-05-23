@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "dependecias do projeto",
   "main": "index.js",
+  "start": "npm start",
   "dependencies": {
     "abab": "^2.0.6",
     "accepts": "^1.3.8",
