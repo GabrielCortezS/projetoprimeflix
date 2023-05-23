@@ -7,8 +7,11 @@ O Primeflix é o seu assistente pessoal de cinema, trazendo as informações mai
 
 Como inicializar:
 1- Certifique-se de que você tem o Node.js instalado em seu sistema. Você pode verificar digitando node -v no terminal. Se não estiver instalado, você pode baixá-lo em https://nodejs.org.
-2- Clone o projeto: https://github.com/GabrielCortezS/projetoprimeflix.git
-3- Entre no projeto com - cd projetoprimeflix
-4- npm i
-4- Incialize o projeto com - npm start
 
+2- Clone o projeto: https://github.com/GabrielCortezS/projetoprimeflix.git
+
+3- Entre no projeto com - cd projetoprimeflix
+
+4- npm i
+
+5- Incialize o projeto com - npm start
